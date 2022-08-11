@@ -1,0 +1,6 @@
+Primary Color: #f2994a
+Primary Card Shadows: -5 26 99 rgba(178, 178, 178, 0.16)
+Primary Border Radius: 5
+Default Font-family: Segoe UI
+Primary Link Color: #7bbcf5
+Default Page Background Color : #F9F9F9
